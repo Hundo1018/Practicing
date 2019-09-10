@@ -1,0 +1,12 @@
+C:\Users\DOG\Desktop\0725-自訂-背包問題\Knapsack_Problem\Knapsack_Problem\bin\Debug\Knapsack_Problem.exe.config
+C:\Users\DOG\Desktop\0725-自訂-背包問題\Knapsack_Problem\Knapsack_Problem\bin\Debug\Knapsack_Problem.exe
+C:\Users\DOG\Desktop\0725-自訂-背包問題\Knapsack_Problem\Knapsack_Problem\bin\Debug\Knapsack_Problem.pdb
+C:\Users\DOG\Desktop\0725-自訂-背包問題\Knapsack_Problem\Knapsack_Problem\obj\Debug\Knapsack_Problem.csprojResolveAssemblyReference.cache
+C:\Users\DOG\Desktop\0725-自訂-背包問題\Knapsack_Problem\Knapsack_Problem\obj\Debug\Knapsack_Problem.Properties.Resources.resources
+C:\Users\DOG\Desktop\0725-自訂-背包問題\Knapsack_Problem\Knapsack_Problem\obj\Debug\Knapsack_Problem.csproj.GenerateResource.cache
+C:\Users\DOG\Desktop\0725-自訂-背包問題\Knapsack_Problem\Knapsack_Problem\obj\Debug\Knapsack_Problem.csproj.CoreCompileInputs.cache
+C:\Users\DOG\Desktop\0725-自訂-背包問題\Knapsack_Problem\Knapsack_Problem\obj\Debug\Knapsack_Problem.exe
+C:\Users\DOG\Desktop\0725-自訂-背包問題\Knapsack_Problem\Knapsack_Problem\obj\Debug\Knapsack_Problem.pdb
+G:\我的雲端硬碟\工科賽\工科練習\0725-自訂-背包問題\Knapsack_Problem\Knapsack_Problem\bin\Debug\Knapsack_Problem.exe.config
+G:\我的雲端硬碟\工科賽\工科練習\0725-自訂-背包問題\Knapsack_Problem\Knapsack_Problem\obj\Debug\Knapsack_Problem.exe
+G:\我的雲端硬碟\工科賽\工科練習\0725-自訂-背包問題\Knapsack_Problem\Knapsack_Problem\obj\Debug\Knapsack_Problem.pdb

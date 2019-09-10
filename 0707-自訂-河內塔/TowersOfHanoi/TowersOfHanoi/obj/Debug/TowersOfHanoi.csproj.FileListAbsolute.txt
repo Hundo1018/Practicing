@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0707-自訂-河內塔\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe.config
+C:\Users\user\Desktop\0707-自訂-河內塔\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe
+C:\Users\user\Desktop\0707-自訂-河內塔\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.pdb
+C:\Users\user\Desktop\0707-自訂-河內塔\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0707-自訂-河內塔\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.Form1.resources
+C:\Users\user\Desktop\0707-自訂-河內塔\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.Properties.Resources.resources
+C:\Users\user\Desktop\0707-自訂-河內塔\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0707-自訂-河內塔\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0707-自訂-河內塔\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.exe
+C:\Users\user\Desktop\0707-自訂-河內塔\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.pdb

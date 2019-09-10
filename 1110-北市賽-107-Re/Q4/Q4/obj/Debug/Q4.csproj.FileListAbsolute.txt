@@ -1,0 +1,6 @@
+C:\Users\nihscs\Desktop\1119\北市賽107\Q4\Q4\bin\Debug\Q4.exe.config
+C:\Users\nihscs\Desktop\1119\北市賽107\Q4\Q4\bin\Debug\Q4.exe
+C:\Users\nihscs\Desktop\1119\北市賽107\Q4\Q4\bin\Debug\Q4.pdb
+C:\Users\nihscs\Desktop\1119\北市賽107\Q4\Q4\obj\Debug\Q4.csprojResolveAssemblyReference.cache
+C:\Users\nihscs\Desktop\1119\北市賽107\Q4\Q4\obj\Debug\Q4.exe
+C:\Users\nihscs\Desktop\1119\北市賽107\Q4\Q4\obj\Debug\Q4.pdb

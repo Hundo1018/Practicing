@@ -1,0 +1,10 @@
+D:\DianJue\9月練習\0912-北市賽-106-3-利用 Lagrange 內插多項式進行曲線擬合\Lagrange\Lagrange\bin\Debug\Lagrange.exe.config
+D:\DianJue\9月練習\0912-北市賽-106-3-利用 Lagrange 內插多項式進行曲線擬合\Lagrange\Lagrange\bin\Debug\Lagrange.exe
+D:\DianJue\9月練習\0912-北市賽-106-3-利用 Lagrange 內插多項式進行曲線擬合\Lagrange\Lagrange\bin\Debug\Lagrange.pdb
+D:\DianJue\9月練習\0912-北市賽-106-3-利用 Lagrange 內插多項式進行曲線擬合\Lagrange\Lagrange\obj\Debug\Lagrange.csprojAssemblyReference.cache
+D:\DianJue\9月練習\0912-北市賽-106-3-利用 Lagrange 內插多項式進行曲線擬合\Lagrange\Lagrange\obj\Debug\Lagrange.Properties.Resources.resources
+D:\DianJue\9月練習\0912-北市賽-106-3-利用 Lagrange 內插多項式進行曲線擬合\Lagrange\Lagrange\obj\Debug\Lagrange.csproj.GenerateResource.cache
+D:\DianJue\9月練習\0912-北市賽-106-3-利用 Lagrange 內插多項式進行曲線擬合\Lagrange\Lagrange\obj\Debug\Lagrange.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\0912-北市賽-106-3-利用 Lagrange 內插多項式進行曲線擬合\Lagrange\Lagrange\obj\Debug\Lagrange.exe
+D:\DianJue\9月練習\0912-北市賽-106-3-利用 Lagrange 內插多項式進行曲線擬合\Lagrange\Lagrange\obj\Debug\Lagrange.pdb
+D:\DianJue\9月練習\0912-北市賽-106-3-利用 Lagrange 內插多項式進行曲線擬合\Lagrange\Lagrange\obj\Debug\Lagrange.Form1.resources

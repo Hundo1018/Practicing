@@ -1,0 +1,10 @@
+D:\DianJue\9月練習\0914-北市賽-101-1-解工程合作問題\Work\Work\bin\Debug\Work.exe.config
+D:\DianJue\9月練習\0914-北市賽-101-1-解工程合作問題\Work\Work\bin\Debug\Work.exe
+D:\DianJue\9月練習\0914-北市賽-101-1-解工程合作問題\Work\Work\bin\Debug\Work.pdb
+D:\DianJue\9月練習\0914-北市賽-101-1-解工程合作問題\Work\Work\obj\Debug\Work.csprojAssemblyReference.cache
+D:\DianJue\9月練習\0914-北市賽-101-1-解工程合作問題\Work\Work\obj\Debug\Work.Properties.Resources.resources
+D:\DianJue\9月練習\0914-北市賽-101-1-解工程合作問題\Work\Work\obj\Debug\Work.csproj.GenerateResource.cache
+D:\DianJue\9月練習\0914-北市賽-101-1-解工程合作問題\Work\Work\obj\Debug\Work.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\0914-北市賽-101-1-解工程合作問題\Work\Work\obj\Debug\Work.exe
+D:\DianJue\9月練習\0914-北市賽-101-1-解工程合作問題\Work\Work\obj\Debug\Work.pdb
+D:\DianJue\9月練習\0914-北市賽-101-1-解工程合作問題\Work\Work\obj\Debug\Work.Form1.resources

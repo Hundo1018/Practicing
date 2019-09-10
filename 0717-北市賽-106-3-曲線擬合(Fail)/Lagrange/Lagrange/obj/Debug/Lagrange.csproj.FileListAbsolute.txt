@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0717-北市賽-曲線擬合\Lagrange\Lagrange\bin\Debug\Lagrange.exe.config
+C:\Users\user\Desktop\0717-北市賽-曲線擬合\Lagrange\Lagrange\bin\Debug\Lagrange.exe
+C:\Users\user\Desktop\0717-北市賽-曲線擬合\Lagrange\Lagrange\bin\Debug\Lagrange.pdb
+C:\Users\user\Desktop\0717-北市賽-曲線擬合\Lagrange\Lagrange\obj\Debug\Lagrange.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0717-北市賽-曲線擬合\Lagrange\Lagrange\obj\Debug\Lagrange.Form1.resources
+C:\Users\user\Desktop\0717-北市賽-曲線擬合\Lagrange\Lagrange\obj\Debug\Lagrange.Properties.Resources.resources
+C:\Users\user\Desktop\0717-北市賽-曲線擬合\Lagrange\Lagrange\obj\Debug\Lagrange.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0717-北市賽-曲線擬合\Lagrange\Lagrange\obj\Debug\Lagrange.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0717-北市賽-曲線擬合\Lagrange\Lagrange\obj\Debug\Lagrange.exe
+C:\Users\user\Desktop\0717-北市賽-曲線擬合\Lagrange\Lagrange\obj\Debug\Lagrange.pdb

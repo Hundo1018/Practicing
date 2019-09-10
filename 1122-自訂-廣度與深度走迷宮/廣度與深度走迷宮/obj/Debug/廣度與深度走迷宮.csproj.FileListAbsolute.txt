@@ -1,0 +1,9 @@
+C:\Users\nihscs\Desktop\1122\廣度與深度走迷宮\廣度與深度走迷宮\bin\Debug\廣度與深度走迷宮.exe.config
+C:\Users\nihscs\Desktop\1122\廣度與深度走迷宮\廣度與深度走迷宮\bin\Debug\廣度與深度走迷宮.exe
+C:\Users\nihscs\Desktop\1122\廣度與深度走迷宮\廣度與深度走迷宮\bin\Debug\廣度與深度走迷宮.pdb
+C:\Users\nihscs\Desktop\1122\廣度與深度走迷宮\廣度與深度走迷宮\obj\Debug\廣度與深度走迷宮.csprojResolveAssemblyReference.cache
+C:\Users\nihscs\Desktop\1122\廣度與深度走迷宮\廣度與深度走迷宮\obj\Debug\廣度與深度走迷宮.Form1.resources
+C:\Users\nihscs\Desktop\1122\廣度與深度走迷宮\廣度與深度走迷宮\obj\Debug\廣度與深度走迷宮.Properties.Resources.resources
+C:\Users\nihscs\Desktop\1122\廣度與深度走迷宮\廣度與深度走迷宮\obj\Debug\廣度與深度走迷宮.csproj.GenerateResource.Cache
+C:\Users\nihscs\Desktop\1122\廣度與深度走迷宮\廣度與深度走迷宮\obj\Debug\廣度與深度走迷宮.exe
+C:\Users\nihscs\Desktop\1122\廣度與深度走迷宮\廣度與深度走迷宮\obj\Debug\廣度與深度走迷宮.pdb

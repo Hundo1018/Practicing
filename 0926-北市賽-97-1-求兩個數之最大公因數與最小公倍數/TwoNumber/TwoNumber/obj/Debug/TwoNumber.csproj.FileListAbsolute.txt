@@ -1,0 +1,10 @@
+D:\DianJue\9月練習\0926-北市賽-97-1-求兩個數之最大公因數與最小公倍數\TwoNumber\TwoNumber\bin\Debug\TwoNumber.exe.config
+D:\DianJue\9月練習\0926-北市賽-97-1-求兩個數之最大公因數與最小公倍數\TwoNumber\TwoNumber\bin\Debug\TwoNumber.exe
+D:\DianJue\9月練習\0926-北市賽-97-1-求兩個數之最大公因數與最小公倍數\TwoNumber\TwoNumber\bin\Debug\TwoNumber.pdb
+D:\DianJue\9月練習\0926-北市賽-97-1-求兩個數之最大公因數與最小公倍數\TwoNumber\TwoNumber\obj\Debug\TwoNumber.csprojAssemblyReference.cache
+D:\DianJue\9月練習\0926-北市賽-97-1-求兩個數之最大公因數與最小公倍數\TwoNumber\TwoNumber\obj\Debug\TwoNumber.Form1.resources
+D:\DianJue\9月練習\0926-北市賽-97-1-求兩個數之最大公因數與最小公倍數\TwoNumber\TwoNumber\obj\Debug\TwoNumber.Properties.Resources.resources
+D:\DianJue\9月練習\0926-北市賽-97-1-求兩個數之最大公因數與最小公倍數\TwoNumber\TwoNumber\obj\Debug\TwoNumber.csproj.GenerateResource.cache
+D:\DianJue\9月練習\0926-北市賽-97-1-求兩個數之最大公因數與最小公倍數\TwoNumber\TwoNumber\obj\Debug\TwoNumber.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\0926-北市賽-97-1-求兩個數之最大公因數與最小公倍數\TwoNumber\TwoNumber\obj\Debug\TwoNumber.exe
+D:\DianJue\9月練習\0926-北市賽-97-1-求兩個數之最大公因數與最小公倍數\TwoNumber\TwoNumber\obj\Debug\TwoNumber.pdb

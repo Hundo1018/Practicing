@@ -1,0 +1,12 @@
+C:\Users\f7416\OneDrive\桌面\Q4\Q4\bin\Debug\Q4.exe.config
+C:\Users\f7416\OneDrive\桌面\Q4\Q4\bin\Debug\Q4.exe
+C:\Users\f7416\OneDrive\桌面\Q4\Q4\bin\Debug\Q4.pdb
+C:\Users\f7416\OneDrive\桌面\Q4\Q4\obj\Debug\Q4.csprojResolveAssemblyReference.cache
+C:\Users\f7416\OneDrive\桌面\Q4\Q4\obj\Debug\Q4.Form1.resources
+C:\Users\f7416\OneDrive\桌面\Q4\Q4\obj\Debug\Q4.Properties.Resources.resources
+C:\Users\f7416\OneDrive\桌面\Q4\Q4\obj\Debug\Q4.csproj.GenerateResource.Cache
+C:\Users\f7416\OneDrive\桌面\Q4\Q4\obj\Debug\Q4.exe
+C:\Users\f7416\OneDrive\桌面\Q4\Q4\obj\Debug\Q4.pdb
+G:\我的雲端硬碟\工科賽\工科練習\倒數1月\1109\Q4\Q4\bin\Debug\Q4.exe.config
+G:\我的雲端硬碟\工科賽\工科練習\倒數1月\1109\Q4\Q4\obj\Debug\Q4.exe
+G:\我的雲端硬碟\工科賽\工科練習\倒數1月\1109\Q4\Q4\obj\Debug\Q4.pdb

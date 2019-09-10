@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture\Lucky_Picture\bin\Debug\Lucky_Picture.exe.config
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture\Lucky_Picture\bin\Debug\Lucky_Picture.exe
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture\Lucky_Picture\bin\Debug\Lucky_Picture.pdb
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture\Lucky_Picture\obj\Debug\Lucky_Picture.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture\Lucky_Picture\obj\Debug\Lucky_Picture.Form1.resources
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture\Lucky_Picture\obj\Debug\Lucky_Picture.Properties.Resources.resources
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture\Lucky_Picture\obj\Debug\Lucky_Picture.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture\Lucky_Picture\obj\Debug\Lucky_Picture.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture\Lucky_Picture\obj\Debug\Lucky_Picture.exe
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture\Lucky_Picture\obj\Debug\Lucky_Picture.pdb

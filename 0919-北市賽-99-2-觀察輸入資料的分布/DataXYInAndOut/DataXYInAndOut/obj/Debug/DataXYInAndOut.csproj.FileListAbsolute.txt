@@ -1,0 +1,10 @@
+D:\DianJue\9月練習\0919-北市賽-99-2-觀察輸入資料的分布\DataXYInAndOut\DataXYInAndOut\bin\Debug\DataXYInAndOut.exe.config
+D:\DianJue\9月練習\0919-北市賽-99-2-觀察輸入資料的分布\DataXYInAndOut\DataXYInAndOut\bin\Debug\DataXYInAndOut.exe
+D:\DianJue\9月練習\0919-北市賽-99-2-觀察輸入資料的分布\DataXYInAndOut\DataXYInAndOut\bin\Debug\DataXYInAndOut.pdb
+D:\DianJue\9月練習\0919-北市賽-99-2-觀察輸入資料的分布\DataXYInAndOut\DataXYInAndOut\obj\Debug\DataXYInAndOut.csprojAssemblyReference.cache
+D:\DianJue\9月練習\0919-北市賽-99-2-觀察輸入資料的分布\DataXYInAndOut\DataXYInAndOut\obj\Debug\DataXYInAndOut.Form1.resources
+D:\DianJue\9月練習\0919-北市賽-99-2-觀察輸入資料的分布\DataXYInAndOut\DataXYInAndOut\obj\Debug\DataXYInAndOut.Properties.Resources.resources
+D:\DianJue\9月練習\0919-北市賽-99-2-觀察輸入資料的分布\DataXYInAndOut\DataXYInAndOut\obj\Debug\DataXYInAndOut.csproj.GenerateResource.cache
+D:\DianJue\9月練習\0919-北市賽-99-2-觀察輸入資料的分布\DataXYInAndOut\DataXYInAndOut\obj\Debug\DataXYInAndOut.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\0919-北市賽-99-2-觀察輸入資料的分布\DataXYInAndOut\DataXYInAndOut\obj\Debug\DataXYInAndOut.exe
+D:\DianJue\9月練習\0919-北市賽-99-2-觀察輸入資料的分布\DataXYInAndOut\DataXYInAndOut\obj\Debug\DataXYInAndOut.pdb

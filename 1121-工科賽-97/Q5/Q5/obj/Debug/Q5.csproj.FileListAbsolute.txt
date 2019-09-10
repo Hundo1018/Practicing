@@ -1,0 +1,9 @@
+C:\Users\nihscs\Desktop\1121\工科賽97\Q5\Q5\bin\Debug\Q5.exe.config
+C:\Users\nihscs\Desktop\1121\工科賽97\Q5\Q5\bin\Debug\Q5.exe
+C:\Users\nihscs\Desktop\1121\工科賽97\Q5\Q5\bin\Debug\Q5.pdb
+C:\Users\nihscs\Desktop\1121\工科賽97\Q5\Q5\obj\Debug\Q5.csprojResolveAssemblyReference.cache
+C:\Users\nihscs\Desktop\1121\工科賽97\Q5\Q5\obj\Debug\Q5.Form1.resources
+C:\Users\nihscs\Desktop\1121\工科賽97\Q5\Q5\obj\Debug\Q5.Properties.Resources.resources
+C:\Users\nihscs\Desktop\1121\工科賽97\Q5\Q5\obj\Debug\Q5.csproj.GenerateResource.Cache
+C:\Users\nihscs\Desktop\1121\工科賽97\Q5\Q5\obj\Debug\Q5.exe
+C:\Users\nihscs\Desktop\1121\工科賽97\Q5\Q5\obj\Debug\Q5.pdb

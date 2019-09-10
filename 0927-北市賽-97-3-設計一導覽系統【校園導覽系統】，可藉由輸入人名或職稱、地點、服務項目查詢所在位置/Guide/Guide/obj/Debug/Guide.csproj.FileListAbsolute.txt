@@ -1,0 +1,10 @@
+D:\DianJue\9月練習\0927-北市賽-97-3-設計一導覽系統【校園導覽系統】，可藉由輸入人名或職稱、地點、服務項目查詢所在位置\Guide\Guide\bin\Debug\Guide.exe.config
+D:\DianJue\9月練習\0927-北市賽-97-3-設計一導覽系統【校園導覽系統】，可藉由輸入人名或職稱、地點、服務項目查詢所在位置\Guide\Guide\bin\Debug\Guide.exe
+D:\DianJue\9月練習\0927-北市賽-97-3-設計一導覽系統【校園導覽系統】，可藉由輸入人名或職稱、地點、服務項目查詢所在位置\Guide\Guide\bin\Debug\Guide.pdb
+D:\DianJue\9月練習\0927-北市賽-97-3-設計一導覽系統【校園導覽系統】，可藉由輸入人名或職稱、地點、服務項目查詢所在位置\Guide\Guide\obj\Debug\Guide.csprojAssemblyReference.cache
+D:\DianJue\9月練習\0927-北市賽-97-3-設計一導覽系統【校園導覽系統】，可藉由輸入人名或職稱、地點、服務項目查詢所在位置\Guide\Guide\obj\Debug\Guide.Form1.resources
+D:\DianJue\9月練習\0927-北市賽-97-3-設計一導覽系統【校園導覽系統】，可藉由輸入人名或職稱、地點、服務項目查詢所在位置\Guide\Guide\obj\Debug\Guide.Properties.Resources.resources
+D:\DianJue\9月練習\0927-北市賽-97-3-設計一導覽系統【校園導覽系統】，可藉由輸入人名或職稱、地點、服務項目查詢所在位置\Guide\Guide\obj\Debug\Guide.csproj.GenerateResource.cache
+D:\DianJue\9月練習\0927-北市賽-97-3-設計一導覽系統【校園導覽系統】，可藉由輸入人名或職稱、地點、服務項目查詢所在位置\Guide\Guide\obj\Debug\Guide.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\0927-北市賽-97-3-設計一導覽系統【校園導覽系統】，可藉由輸入人名或職稱、地點、服務項目查詢所在位置\Guide\Guide\obj\Debug\Guide.exe
+D:\DianJue\9月練習\0927-北市賽-97-3-設計一導覽系統【校園導覽系統】，可藉由輸入人名或職稱、地點、服務項目查詢所在位置\Guide\Guide\obj\Debug\Guide.pdb

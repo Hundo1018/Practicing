@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0806-工科賽-資料分群\Kmean\Kmean\bin\Debug\Kmean.exe.config
+C:\Users\user\Desktop\0806-工科賽-資料分群\Kmean\Kmean\bin\Debug\Kmean.exe
+C:\Users\user\Desktop\0806-工科賽-資料分群\Kmean\Kmean\bin\Debug\Kmean.pdb
+C:\Users\user\Desktop\0806-工科賽-資料分群\Kmean\Kmean\obj\Debug\Kmean.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0806-工科賽-資料分群\Kmean\Kmean\obj\Debug\Kmean.Properties.Resources.resources
+C:\Users\user\Desktop\0806-工科賽-資料分群\Kmean\Kmean\obj\Debug\Kmean.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0806-工科賽-資料分群\Kmean\Kmean\obj\Debug\Kmean.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0806-工科賽-資料分群\Kmean\Kmean\obj\Debug\Kmean.exe
+C:\Users\user\Desktop\0806-工科賽-資料分群\Kmean\Kmean\obj\Debug\Kmean.pdb
+C:\Users\user\Desktop\0806-工科賽-資料分群\Kmean\Kmean\obj\Debug\Kmean.Form1.resources

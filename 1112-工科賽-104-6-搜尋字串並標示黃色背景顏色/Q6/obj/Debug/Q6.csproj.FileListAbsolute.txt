@@ -1,0 +1,9 @@
+C:\Users\nihscs\Desktop\1112\Q6\Q6\bin\Debug\Q6.exe.config
+C:\Users\nihscs\Desktop\1112\Q6\Q6\bin\Debug\Q6.exe
+C:\Users\nihscs\Desktop\1112\Q6\Q6\bin\Debug\Q6.pdb
+C:\Users\nihscs\Desktop\1112\Q6\Q6\obj\Debug\Q6.csprojResolveAssemblyReference.cache
+C:\Users\nihscs\Desktop\1112\Q6\Q6\obj\Debug\Q6.Form1.resources
+C:\Users\nihscs\Desktop\1112\Q6\Q6\obj\Debug\Q6.Properties.Resources.resources
+C:\Users\nihscs\Desktop\1112\Q6\Q6\obj\Debug\Q6.csproj.GenerateResource.Cache
+C:\Users\nihscs\Desktop\1112\Q6\Q6\obj\Debug\Q6.exe
+C:\Users\nihscs\Desktop\1112\Q6\Q6\obj\Debug\Q6.pdb

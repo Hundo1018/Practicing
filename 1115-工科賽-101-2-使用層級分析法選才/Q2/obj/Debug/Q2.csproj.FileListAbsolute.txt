@@ -1,0 +1,6 @@
+C:\Users\nihscs\Desktop\1115\Q2\Q2\bin\Debug\Q2.exe.config
+C:\Users\nihscs\Desktop\1115\Q2\Q2\bin\Debug\Q2.exe
+C:\Users\nihscs\Desktop\1115\Q2\Q2\bin\Debug\Q2.pdb
+C:\Users\nihscs\Desktop\1115\Q2\Q2\obj\Debug\Q2.csprojResolveAssemblyReference.cache
+C:\Users\nihscs\Desktop\1115\Q2\Q2\obj\Debug\Q2.exe
+C:\Users\nihscs\Desktop\1115\Q2\Q2\obj\Debug\Q2.pdb

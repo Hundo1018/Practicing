@@ -1,0 +1,10 @@
+D:\DianJue\9月練習\0914-北市賽-102-三角形判斷程式\Trijgd\Trijgd\bin\Debug\Trijgd.exe.config
+D:\DianJue\9月練習\0914-北市賽-102-三角形判斷程式\Trijgd\Trijgd\bin\Debug\Trijgd.exe
+D:\DianJue\9月練習\0914-北市賽-102-三角形判斷程式\Trijgd\Trijgd\bin\Debug\Trijgd.pdb
+D:\DianJue\9月練習\0914-北市賽-102-三角形判斷程式\Trijgd\Trijgd\obj\Debug\Trijgd.csprojAssemblyReference.cache
+D:\DianJue\9月練習\0914-北市賽-102-三角形判斷程式\Trijgd\Trijgd\obj\Debug\Trijgd.Form1.resources
+D:\DianJue\9月練習\0914-北市賽-102-三角形判斷程式\Trijgd\Trijgd\obj\Debug\Trijgd.Properties.Resources.resources
+D:\DianJue\9月練習\0914-北市賽-102-三角形判斷程式\Trijgd\Trijgd\obj\Debug\Trijgd.csproj.GenerateResource.cache
+D:\DianJue\9月練習\0914-北市賽-102-三角形判斷程式\Trijgd\Trijgd\obj\Debug\Trijgd.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\0914-北市賽-102-三角形判斷程式\Trijgd\Trijgd\obj\Debug\Trijgd.exe
+D:\DianJue\9月練習\0914-北市賽-102-三角形判斷程式\Trijgd\Trijgd\obj\Debug\Trijgd.pdb

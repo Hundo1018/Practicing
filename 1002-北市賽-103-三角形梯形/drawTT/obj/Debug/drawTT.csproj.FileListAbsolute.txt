@@ -1,0 +1,10 @@
+D:\DianJue\10月練習-北市賽二周目\drawTT\drawTT\bin\Debug\drawTT.exe.config
+D:\DianJue\10月練習-北市賽二周目\drawTT\drawTT\bin\Debug\drawTT.exe
+D:\DianJue\10月練習-北市賽二周目\drawTT\drawTT\bin\Debug\drawTT.pdb
+D:\DianJue\10月練習-北市賽二周目\drawTT\drawTT\obj\Debug\drawTT.csprojAssemblyReference.cache
+D:\DianJue\10月練習-北市賽二周目\drawTT\drawTT\obj\Debug\drawTT.Form1.resources
+D:\DianJue\10月練習-北市賽二周目\drawTT\drawTT\obj\Debug\drawTT.Properties.Resources.resources
+D:\DianJue\10月練習-北市賽二周目\drawTT\drawTT\obj\Debug\drawTT.csproj.GenerateResource.cache
+D:\DianJue\10月練習-北市賽二周目\drawTT\drawTT\obj\Debug\drawTT.csproj.CoreCompileInputs.cache
+D:\DianJue\10月練習-北市賽二周目\drawTT\drawTT\obj\Debug\drawTT.exe
+D:\DianJue\10月練習-北市賽二周目\drawTT\drawTT\obj\Debug\drawTT.pdb

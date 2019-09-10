@@ -1,0 +1,10 @@
+D:\DianJue\9月練習\0918-北市賽-99-1-猜數字遊戲\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+D:\DianJue\9月練習\0918-北市賽-99-1-猜數字遊戲\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+D:\DianJue\9月練習\0918-北市賽-99-1-猜數字遊戲\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+D:\DianJue\9月練習\0918-北市賽-99-1-猜數字遊戲\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csprojAssemblyReference.cache
+D:\DianJue\9月練習\0918-北市賽-99-1-猜數字遊戲\GuessNumber\GuessNumber\obj\Debug\GuessNumber.Form1.resources
+D:\DianJue\9月練習\0918-北市賽-99-1-猜數字遊戲\GuessNumber\GuessNumber\obj\Debug\GuessNumber.Properties.Resources.resources
+D:\DianJue\9月練習\0918-北市賽-99-1-猜數字遊戲\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.GenerateResource.cache
+D:\DianJue\9月練習\0918-北市賽-99-1-猜數字遊戲\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\0918-北市賽-99-1-猜數字遊戲\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+D:\DianJue\9月練習\0918-北市賽-99-1-猜數字遊戲\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb

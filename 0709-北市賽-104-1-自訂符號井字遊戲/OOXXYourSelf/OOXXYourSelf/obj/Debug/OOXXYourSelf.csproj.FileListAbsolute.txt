@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0709-北市賽-自定符號井字遊戲\OOXXYourSelf\OOXXYourSelf\bin\Debug\OOXXYourSelf.exe.config
+C:\Users\user\Desktop\0709-北市賽-自定符號井字遊戲\OOXXYourSelf\OOXXYourSelf\bin\Debug\OOXXYourSelf.exe
+C:\Users\user\Desktop\0709-北市賽-自定符號井字遊戲\OOXXYourSelf\OOXXYourSelf\bin\Debug\OOXXYourSelf.pdb
+C:\Users\user\Desktop\0709-北市賽-自定符號井字遊戲\OOXXYourSelf\OOXXYourSelf\obj\Debug\OOXXYourSelf.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0709-北市賽-自定符號井字遊戲\OOXXYourSelf\OOXXYourSelf\obj\Debug\OOXXYourSelf.Form1.resources
+C:\Users\user\Desktop\0709-北市賽-自定符號井字遊戲\OOXXYourSelf\OOXXYourSelf\obj\Debug\OOXXYourSelf.Properties.Resources.resources
+C:\Users\user\Desktop\0709-北市賽-自定符號井字遊戲\OOXXYourSelf\OOXXYourSelf\obj\Debug\OOXXYourSelf.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0709-北市賽-自定符號井字遊戲\OOXXYourSelf\OOXXYourSelf\obj\Debug\OOXXYourSelf.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0709-北市賽-自定符號井字遊戲\OOXXYourSelf\OOXXYourSelf\obj\Debug\OOXXYourSelf.exe
+C:\Users\user\Desktop\0709-北市賽-自定符號井字遊戲\OOXXYourSelf\OOXXYourSelf\obj\Debug\OOXXYourSelf.pdb

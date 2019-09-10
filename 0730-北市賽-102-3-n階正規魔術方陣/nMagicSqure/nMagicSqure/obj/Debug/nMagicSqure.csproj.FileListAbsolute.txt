@@ -1,0 +1,10 @@
+C:\Users\DOG\Desktop\0730-北市賽-n階正規魔術方陣\nMagicSqure\nMagicSqure\obj\Debug\nMagicSqure.csprojResolveAssemblyReference.cache
+C:\Users\DOG\Desktop\0730-北市賽-n階正規魔術方陣\nMagicSqure\nMagicSqure\obj\Debug\nMagicSqure.Form1.resources
+C:\Users\DOG\Desktop\0730-北市賽-n階正規魔術方陣\nMagicSqure\nMagicSqure\obj\Debug\nMagicSqure.Properties.Resources.resources
+C:\Users\DOG\Desktop\0730-北市賽-n階正規魔術方陣\nMagicSqure\nMagicSqure\obj\Debug\nMagicSqure.csproj.GenerateResource.cache
+C:\Users\DOG\Desktop\0730-北市賽-n階正規魔術方陣\nMagicSqure\nMagicSqure\obj\Debug\nMagicSqure.csproj.CoreCompileInputs.cache
+C:\Users\DOG\Desktop\0730-北市賽-n階正規魔術方陣\nMagicSqure\nMagicSqure\bin\Debug\nMagicSqure.exe.config
+C:\Users\DOG\Desktop\0730-北市賽-n階正規魔術方陣\nMagicSqure\nMagicSqure\bin\Debug\nMagicSqure.exe
+C:\Users\DOG\Desktop\0730-北市賽-n階正規魔術方陣\nMagicSqure\nMagicSqure\bin\Debug\nMagicSqure.pdb
+C:\Users\DOG\Desktop\0730-北市賽-n階正規魔術方陣\nMagicSqure\nMagicSqure\obj\Debug\nMagicSqure.exe
+C:\Users\DOG\Desktop\0730-北市賽-n階正規魔術方陣\nMagicSqure\nMagicSqure\obj\Debug\nMagicSqure.pdb

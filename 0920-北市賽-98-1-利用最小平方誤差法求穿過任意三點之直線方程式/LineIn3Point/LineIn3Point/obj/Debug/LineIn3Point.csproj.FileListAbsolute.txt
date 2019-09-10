@@ -1,0 +1,10 @@
+D:\DianJue\9月練習\0920-北市賽-98-1-利用最小平方誤差法求穿過任意三點之直線方程式\LineIn3Point\LineIn3Point\obj\Debug\LineIn3Point.csprojAssemblyReference.cache
+D:\DianJue\9月練習\0920-北市賽-98-1-利用最小平方誤差法求穿過任意三點之直線方程式\LineIn3Point\LineIn3Point\obj\Debug\LineIn3Point.Form1.resources
+D:\DianJue\9月練習\0920-北市賽-98-1-利用最小平方誤差法求穿過任意三點之直線方程式\LineIn3Point\LineIn3Point\obj\Debug\LineIn3Point.Properties.Resources.resources
+D:\DianJue\9月練習\0920-北市賽-98-1-利用最小平方誤差法求穿過任意三點之直線方程式\LineIn3Point\LineIn3Point\obj\Debug\LineIn3Point.csproj.GenerateResource.cache
+D:\DianJue\9月練習\0920-北市賽-98-1-利用最小平方誤差法求穿過任意三點之直線方程式\LineIn3Point\LineIn3Point\obj\Debug\LineIn3Point.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\0920-北市賽-98-1-利用最小平方誤差法求穿過任意三點之直線方程式\LineIn3Point\LineIn3Point\bin\Debug\LineIn3Point.exe.config
+D:\DianJue\9月練習\0920-北市賽-98-1-利用最小平方誤差法求穿過任意三點之直線方程式\LineIn3Point\LineIn3Point\bin\Debug\LineIn3Point.exe
+D:\DianJue\9月練習\0920-北市賽-98-1-利用最小平方誤差法求穿過任意三點之直線方程式\LineIn3Point\LineIn3Point\bin\Debug\LineIn3Point.pdb
+D:\DianJue\9月練習\0920-北市賽-98-1-利用最小平方誤差法求穿過任意三點之直線方程式\LineIn3Point\LineIn3Point\obj\Debug\LineIn3Point.exe
+D:\DianJue\9月練習\0920-北市賽-98-1-利用最小平方誤差法求穿過任意三點之直線方程式\LineIn3Point\LineIn3Point\obj\Debug\LineIn3Point.pdb

@@ -1,0 +1,12 @@
+C:\Users\nihscs\Desktop\1123\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\nihscs\Desktop\1123\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\nihscs\Desktop\1123\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\nihscs\Desktop\1123\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\nihscs\Desktop\1123\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Form1.resources
+C:\Users\nihscs\Desktop\1123\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\nihscs\Desktop\1123\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.Cache
+C:\Users\nihscs\Desktop\1123\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\nihscs\Desktop\1123\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\nihscs\Desktop\1123\BinaryTree_直接設定數值生樹\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\nihscs\Desktop\1123\BinaryTree_直接設定數值生樹\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\nihscs\Desktop\1123\BinaryTree_直接設定數值生樹\BinaryTree\obj\Debug\BinaryTree.pdb

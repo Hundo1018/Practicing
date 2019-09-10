@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0710-北市賽-侵蝕處理程式\Erosion\Erosion\bin\Debug\Erosion.exe.config
+C:\Users\user\Desktop\0710-北市賽-侵蝕處理程式\Erosion\Erosion\bin\Debug\Erosion.exe
+C:\Users\user\Desktop\0710-北市賽-侵蝕處理程式\Erosion\Erosion\bin\Debug\Erosion.pdb
+C:\Users\user\Desktop\0710-北市賽-侵蝕處理程式\Erosion\Erosion\obj\Debug\Erosion.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0710-北市賽-侵蝕處理程式\Erosion\Erosion\obj\Debug\Erosion.Form1.resources
+C:\Users\user\Desktop\0710-北市賽-侵蝕處理程式\Erosion\Erosion\obj\Debug\Erosion.Properties.Resources.resources
+C:\Users\user\Desktop\0710-北市賽-侵蝕處理程式\Erosion\Erosion\obj\Debug\Erosion.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0710-北市賽-侵蝕處理程式\Erosion\Erosion\obj\Debug\Erosion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0710-北市賽-侵蝕處理程式\Erosion\Erosion\obj\Debug\Erosion.exe
+C:\Users\user\Desktop\0710-北市賽-侵蝕處理程式\Erosion\Erosion\obj\Debug\Erosion.pdb

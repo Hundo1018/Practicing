@@ -1,0 +1,10 @@
+D:\DianJue\9月練習\0914-北市賽-102-4-誤差擴散法\Floyd-Steinberg\Floyd-Steinberg\bin\Debug\Floyd-Steinberg.exe.config
+D:\DianJue\9月練習\0914-北市賽-102-4-誤差擴散法\Floyd-Steinberg\Floyd-Steinberg\bin\Debug\Floyd-Steinberg.exe
+D:\DianJue\9月練習\0914-北市賽-102-4-誤差擴散法\Floyd-Steinberg\Floyd-Steinberg\bin\Debug\Floyd-Steinberg.pdb
+D:\DianJue\9月練習\0914-北市賽-102-4-誤差擴散法\Floyd-Steinberg\Floyd-Steinberg\obj\Debug\Floyd-Steinberg.csprojAssemblyReference.cache
+D:\DianJue\9月練習\0914-北市賽-102-4-誤差擴散法\Floyd-Steinberg\Floyd-Steinberg\obj\Debug\Floyd_Steinberg.Form1.resources
+D:\DianJue\9月練習\0914-北市賽-102-4-誤差擴散法\Floyd-Steinberg\Floyd-Steinberg\obj\Debug\Floyd_Steinberg.Properties.Resources.resources
+D:\DianJue\9月練習\0914-北市賽-102-4-誤差擴散法\Floyd-Steinberg\Floyd-Steinberg\obj\Debug\Floyd-Steinberg.csproj.GenerateResource.cache
+D:\DianJue\9月練習\0914-北市賽-102-4-誤差擴散法\Floyd-Steinberg\Floyd-Steinberg\obj\Debug\Floyd-Steinberg.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\0914-北市賽-102-4-誤差擴散法\Floyd-Steinberg\Floyd-Steinberg\obj\Debug\Floyd-Steinberg.exe
+D:\DianJue\9月練習\0914-北市賽-102-4-誤差擴散法\Floyd-Steinberg\Floyd-Steinberg\obj\Debug\Floyd-Steinberg.pdb

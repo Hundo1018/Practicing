@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0709-北市賽-大數計算機\BigInterger\BigInterger\bin\Debug\BigInterger.exe.config
+C:\Users\user\Desktop\0709-北市賽-大數計算機\BigInterger\BigInterger\bin\Debug\BigInterger.exe
+C:\Users\user\Desktop\0709-北市賽-大數計算機\BigInterger\BigInterger\bin\Debug\BigInterger.pdb
+C:\Users\user\Desktop\0709-北市賽-大數計算機\BigInterger\BigInterger\obj\Debug\BigInterger.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0709-北市賽-大數計算機\BigInterger\BigInterger\obj\Debug\BigInterger.Form1.resources
+C:\Users\user\Desktop\0709-北市賽-大數計算機\BigInterger\BigInterger\obj\Debug\BigInterger.Properties.Resources.resources
+C:\Users\user\Desktop\0709-北市賽-大數計算機\BigInterger\BigInterger\obj\Debug\BigInterger.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0709-北市賽-大數計算機\BigInterger\BigInterger\obj\Debug\BigInterger.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0709-北市賽-大數計算機\BigInterger\BigInterger\obj\Debug\BigInterger.exe
+C:\Users\user\Desktop\0709-北市賽-大數計算機\BigInterger\BigInterger\obj\Debug\BigInterger.pdb

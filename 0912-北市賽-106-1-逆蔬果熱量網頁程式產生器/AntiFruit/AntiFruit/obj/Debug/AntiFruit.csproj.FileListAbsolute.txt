@@ -1,0 +1,9 @@
+D:\DianJue\9月練習\北市賽-106-1-逆蔬果熱量網頁程式產生器\AntiFruit\AntiFruit\bin\Debug\AntiFruit.exe.config
+D:\DianJue\9月練習\北市賽-106-1-逆蔬果熱量網頁程式產生器\AntiFruit\AntiFruit\bin\Debug\AntiFruit.exe
+D:\DianJue\9月練習\北市賽-106-1-逆蔬果熱量網頁程式產生器\AntiFruit\AntiFruit\bin\Debug\AntiFruit.pdb
+D:\DianJue\9月練習\北市賽-106-1-逆蔬果熱量網頁程式產生器\AntiFruit\AntiFruit\obj\Debug\AntiFruit.csprojAssemblyReference.cache
+D:\DianJue\9月練習\北市賽-106-1-逆蔬果熱量網頁程式產生器\AntiFruit\AntiFruit\obj\Debug\AntiFruit.Properties.Resources.resources
+D:\DianJue\9月練習\北市賽-106-1-逆蔬果熱量網頁程式產生器\AntiFruit\AntiFruit\obj\Debug\AntiFruit.csproj.GenerateResource.cache
+D:\DianJue\9月練習\北市賽-106-1-逆蔬果熱量網頁程式產生器\AntiFruit\AntiFruit\obj\Debug\AntiFruit.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\北市賽-106-1-逆蔬果熱量網頁程式產生器\AntiFruit\AntiFruit\obj\Debug\AntiFruit.exe
+D:\DianJue\9月練習\北市賽-106-1-逆蔬果熱量網頁程式產生器\AntiFruit\AntiFruit\obj\Debug\AntiFruit.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture_BYPANDA\Lucky_Picture_BYPANDA\obj\Debug\Lucky_Picture_BYPANDA.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture_BYPANDA\Lucky_Picture_BYPANDA\obj\Debug\Lucky_Picture_BYPANDA.Form1.resources
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture_BYPANDA\Lucky_Picture_BYPANDA\obj\Debug\Lucky_Picture_BYPANDA.Properties.Resources.resources
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture_BYPANDA\Lucky_Picture_BYPANDA\obj\Debug\Lucky_Picture_BYPANDA.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture_BYPANDA\Lucky_Picture_BYPANDA\obj\Debug\Lucky_Picture_BYPANDA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture_BYPANDA\Lucky_Picture_BYPANDA\bin\Debug\Lucky_Picture_BYPANDA.exe.config
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture_BYPANDA\Lucky_Picture_BYPANDA\bin\Debug\Lucky_Picture_BYPANDA.exe
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture_BYPANDA\Lucky_Picture_BYPANDA\bin\Debug\Lucky_Picture_BYPANDA.pdb
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture_BYPANDA\Lucky_Picture_BYPANDA\obj\Debug\Lucky_Picture_BYPANDA.exe
+C:\Users\user\Desktop\0714-北市賽-幸運相片\Lucky_Picture_BYPANDA\Lucky_Picture_BYPANDA\obj\Debug\Lucky_Picture_BYPANDA.pdb

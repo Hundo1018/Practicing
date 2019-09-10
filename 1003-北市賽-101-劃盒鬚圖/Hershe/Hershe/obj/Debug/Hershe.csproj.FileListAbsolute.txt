@@ -1,0 +1,10 @@
+D:\DianJue\10月練習-北市賽二周目\1003-北市賽-101-劃盒鬚圖\Hershe\Hershe\bin\Debug\Hershe.exe.config
+D:\DianJue\10月練習-北市賽二周目\1003-北市賽-101-劃盒鬚圖\Hershe\Hershe\bin\Debug\Hershe.exe
+D:\DianJue\10月練習-北市賽二周目\1003-北市賽-101-劃盒鬚圖\Hershe\Hershe\bin\Debug\Hershe.pdb
+D:\DianJue\10月練習-北市賽二周目\1003-北市賽-101-劃盒鬚圖\Hershe\Hershe\obj\Debug\Hershe.csprojAssemblyReference.cache
+D:\DianJue\10月練習-北市賽二周目\1003-北市賽-101-劃盒鬚圖\Hershe\Hershe\obj\Debug\Hershe.Form1.resources
+D:\DianJue\10月練習-北市賽二周目\1003-北市賽-101-劃盒鬚圖\Hershe\Hershe\obj\Debug\Hershe.Properties.Resources.resources
+D:\DianJue\10月練習-北市賽二周目\1003-北市賽-101-劃盒鬚圖\Hershe\Hershe\obj\Debug\Hershe.csproj.GenerateResource.cache
+D:\DianJue\10月練習-北市賽二周目\1003-北市賽-101-劃盒鬚圖\Hershe\Hershe\obj\Debug\Hershe.csproj.CoreCompileInputs.cache
+D:\DianJue\10月練習-北市賽二周目\1003-北市賽-101-劃盒鬚圖\Hershe\Hershe\obj\Debug\Hershe.exe
+D:\DianJue\10月練習-北市賽二周目\1003-北市賽-101-劃盒鬚圖\Hershe\Hershe\obj\Debug\Hershe.pdb

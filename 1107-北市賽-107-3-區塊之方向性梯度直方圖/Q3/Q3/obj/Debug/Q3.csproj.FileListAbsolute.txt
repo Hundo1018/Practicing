@@ -1,0 +1,12 @@
+C:\Users\nihscs\Desktop\1107\Q3\Q3\Q3\bin\Debug\Q3.exe.config
+C:\Users\nihscs\Desktop\1107\Q3\Q3\Q3\bin\Debug\Q3.exe
+C:\Users\nihscs\Desktop\1107\Q3\Q3\Q3\bin\Debug\Q3.pdb
+C:\Users\nihscs\Desktop\1107\Q3\Q3\Q3\obj\Debug\Q3.csprojResolveAssemblyReference.cache
+C:\Users\nihscs\Desktop\1107\Q3\Q3\Q3\obj\Debug\Q3.Form1.resources
+C:\Users\nihscs\Desktop\1107\Q3\Q3\Q3\obj\Debug\Q3.Properties.Resources.resources
+C:\Users\nihscs\Desktop\1107\Q3\Q3\Q3\obj\Debug\Q3.csproj.GenerateResource.Cache
+C:\Users\nihscs\Desktop\1107\Q3\Q3\Q3\obj\Debug\Q3.exe
+C:\Users\nihscs\Desktop\1107\Q3\Q3\Q3\obj\Debug\Q3.pdb
+G:\我的雲端硬碟\工科賽\工科練習\倒數1月\1107\Q3\Q3\Q3\bin\Debug\Q3.exe.config
+G:\我的雲端硬碟\工科賽\工科練習\倒數1月\1107\Q3\Q3\Q3\obj\Debug\Q3.exe
+G:\我的雲端硬碟\工科賽\工科練習\倒數1月\1107\Q3\Q3\Q3\obj\Debug\Q3.pdb

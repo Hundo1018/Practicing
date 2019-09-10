@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0716_北市賽_有趣的點和線的檢測\FunnyDotAndLineCheck\FunnyDotAndLineCheck\bin\Debug\FunnyDotAndLineCheck.exe.config
+C:\Users\user\Desktop\0716_北市賽_有趣的點和線的檢測\FunnyDotAndLineCheck\FunnyDotAndLineCheck\bin\Debug\FunnyDotAndLineCheck.exe
+C:\Users\user\Desktop\0716_北市賽_有趣的點和線的檢測\FunnyDotAndLineCheck\FunnyDotAndLineCheck\bin\Debug\FunnyDotAndLineCheck.pdb
+C:\Users\user\Desktop\0716_北市賽_有趣的點和線的檢測\FunnyDotAndLineCheck\FunnyDotAndLineCheck\obj\Debug\FunnyDotAndLineCheck.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0716_北市賽_有趣的點和線的檢測\FunnyDotAndLineCheck\FunnyDotAndLineCheck\obj\Debug\FunnyDotAndLineCheck.Form1.resources
+C:\Users\user\Desktop\0716_北市賽_有趣的點和線的檢測\FunnyDotAndLineCheck\FunnyDotAndLineCheck\obj\Debug\FunnyDotAndLineCheck.Properties.Resources.resources
+C:\Users\user\Desktop\0716_北市賽_有趣的點和線的檢測\FunnyDotAndLineCheck\FunnyDotAndLineCheck\obj\Debug\FunnyDotAndLineCheck.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0716_北市賽_有趣的點和線的檢測\FunnyDotAndLineCheck\FunnyDotAndLineCheck\obj\Debug\FunnyDotAndLineCheck.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0716_北市賽_有趣的點和線的檢測\FunnyDotAndLineCheck\FunnyDotAndLineCheck\obj\Debug\FunnyDotAndLineCheck.exe
+C:\Users\user\Desktop\0716_北市賽_有趣的點和線的檢測\FunnyDotAndLineCheck\FunnyDotAndLineCheck\obj\Debug\FunnyDotAndLineCheck.pdb

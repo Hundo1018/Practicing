@@ -1,0 +1,6 @@
+C:\Users\nihscs\Desktop\1120\ExTriangle\ExTriangle\bin\Debug\ExTriangle.exe.config
+C:\Users\nihscs\Desktop\1120\ExTriangle\ExTriangle\bin\Debug\ExTriangle.exe
+C:\Users\nihscs\Desktop\1120\ExTriangle\ExTriangle\bin\Debug\ExTriangle.pdb
+C:\Users\nihscs\Desktop\1120\ExTriangle\ExTriangle\obj\Debug\ExTriangle.csprojResolveAssemblyReference.cache
+C:\Users\nihscs\Desktop\1120\ExTriangle\ExTriangle\obj\Debug\ExTriangle.exe
+C:\Users\nihscs\Desktop\1120\ExTriangle\ExTriangle\obj\Debug\ExTriangle.pdb

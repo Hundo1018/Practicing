@@ -1,0 +1,10 @@
+D:\DianJue\9月練習\0924-北市賽-98-2-資訊隱藏在 BMP 圖片中之程式設計\DataInBMP\DataInBMP\bin\Debug\DataInBMP.exe.config
+D:\DianJue\9月練習\0924-北市賽-98-2-資訊隱藏在 BMP 圖片中之程式設計\DataInBMP\DataInBMP\bin\Debug\DataInBMP.exe
+D:\DianJue\9月練習\0924-北市賽-98-2-資訊隱藏在 BMP 圖片中之程式設計\DataInBMP\DataInBMP\bin\Debug\DataInBMP.pdb
+D:\DianJue\9月練習\0924-北市賽-98-2-資訊隱藏在 BMP 圖片中之程式設計\DataInBMP\DataInBMP\obj\Debug\DataInBMP.csprojAssemblyReference.cache
+D:\DianJue\9月練習\0924-北市賽-98-2-資訊隱藏在 BMP 圖片中之程式設計\DataInBMP\DataInBMP\obj\Debug\DataInBMP.Form1.resources
+D:\DianJue\9月練習\0924-北市賽-98-2-資訊隱藏在 BMP 圖片中之程式設計\DataInBMP\DataInBMP\obj\Debug\DataInBMP.Properties.Resources.resources
+D:\DianJue\9月練習\0924-北市賽-98-2-資訊隱藏在 BMP 圖片中之程式設計\DataInBMP\DataInBMP\obj\Debug\DataInBMP.csproj.GenerateResource.cache
+D:\DianJue\9月練習\0924-北市賽-98-2-資訊隱藏在 BMP 圖片中之程式設計\DataInBMP\DataInBMP\obj\Debug\DataInBMP.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\0924-北市賽-98-2-資訊隱藏在 BMP 圖片中之程式設計\DataInBMP\DataInBMP\obj\Debug\DataInBMP.exe
+D:\DianJue\9月練習\0924-北市賽-98-2-資訊隱藏在 BMP 圖片中之程式設計\DataInBMP\DataInBMP\obj\Debug\DataInBMP.pdb

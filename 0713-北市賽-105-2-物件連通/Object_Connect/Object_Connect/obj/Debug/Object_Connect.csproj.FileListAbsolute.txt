@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0713-北市賽-物件連通\Object_Connect\Object_Connect\bin\Debug\Object_Connect.exe.config
+C:\Users\user\Desktop\0713-北市賽-物件連通\Object_Connect\Object_Connect\bin\Debug\Object_Connect.exe
+C:\Users\user\Desktop\0713-北市賽-物件連通\Object_Connect\Object_Connect\bin\Debug\Object_Connect.pdb
+C:\Users\user\Desktop\0713-北市賽-物件連通\Object_Connect\Object_Connect\obj\Debug\Object_Connect.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0713-北市賽-物件連通\Object_Connect\Object_Connect\obj\Debug\Object_Connect.Form1.resources
+C:\Users\user\Desktop\0713-北市賽-物件連通\Object_Connect\Object_Connect\obj\Debug\Object_Connect.Properties.Resources.resources
+C:\Users\user\Desktop\0713-北市賽-物件連通\Object_Connect\Object_Connect\obj\Debug\Object_Connect.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0713-北市賽-物件連通\Object_Connect\Object_Connect\obj\Debug\Object_Connect.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0713-北市賽-物件連通\Object_Connect\Object_Connect\obj\Debug\Object_Connect.exe
+C:\Users\user\Desktop\0713-北市賽-物件連通\Object_Connect\Object_Connect\obj\Debug\Object_Connect.pdb

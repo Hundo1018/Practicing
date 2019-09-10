@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0821-工科賽-迷宮搜尋系統\ShortestGridPath\ShortestGridPath\bin\Debug\ShortestGridPath.exe.config
+C:\Users\user\Desktop\0821-工科賽-迷宮搜尋系統\ShortestGridPath\ShortestGridPath\bin\Debug\ShortestGridPath.exe
+C:\Users\user\Desktop\0821-工科賽-迷宮搜尋系統\ShortestGridPath\ShortestGridPath\bin\Debug\ShortestGridPath.pdb
+C:\Users\user\Desktop\0821-工科賽-迷宮搜尋系統\ShortestGridPath\ShortestGridPath\obj\Debug\ShortestGridPath.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0821-工科賽-迷宮搜尋系統\ShortestGridPath\ShortestGridPath\obj\Debug\ShortestGridPath.Form1.resources
+C:\Users\user\Desktop\0821-工科賽-迷宮搜尋系統\ShortestGridPath\ShortestGridPath\obj\Debug\ShortestGridPath.Properties.Resources.resources
+C:\Users\user\Desktop\0821-工科賽-迷宮搜尋系統\ShortestGridPath\ShortestGridPath\obj\Debug\ShortestGridPath.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0821-工科賽-迷宮搜尋系統\ShortestGridPath\ShortestGridPath\obj\Debug\ShortestGridPath.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0821-工科賽-迷宮搜尋系統\ShortestGridPath\ShortestGridPath\obj\Debug\ShortestGridPath.exe
+C:\Users\user\Desktop\0821-工科賽-迷宮搜尋系統\ShortestGridPath\ShortestGridPath\obj\Debug\ShortestGridPath.pdb

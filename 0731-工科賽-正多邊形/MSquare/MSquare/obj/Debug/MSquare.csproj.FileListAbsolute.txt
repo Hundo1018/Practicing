@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0731-工科賽-正多邊形\MSquare\MSquare\bin\Debug\MSquare.exe.config
+C:\Users\user\Desktop\0731-工科賽-正多邊形\MSquare\MSquare\bin\Debug\MSquare.exe
+C:\Users\user\Desktop\0731-工科賽-正多邊形\MSquare\MSquare\bin\Debug\MSquare.pdb
+C:\Users\user\Desktop\0731-工科賽-正多邊形\MSquare\MSquare\obj\Debug\MSquare.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0731-工科賽-正多邊形\MSquare\MSquare\obj\Debug\MSquare.Form1.resources
+C:\Users\user\Desktop\0731-工科賽-正多邊形\MSquare\MSquare\obj\Debug\MSquare.Properties.Resources.resources
+C:\Users\user\Desktop\0731-工科賽-正多邊形\MSquare\MSquare\obj\Debug\MSquare.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0731-工科賽-正多邊形\MSquare\MSquare\obj\Debug\MSquare.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0731-工科賽-正多邊形\MSquare\MSquare\obj\Debug\MSquare.exe
+C:\Users\user\Desktop\0731-工科賽-正多邊形\MSquare\MSquare\obj\Debug\MSquare.pdb

@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\0716_北市賽_紙牌遊戲\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\user\Desktop\0716_北市賽_紙牌遊戲\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\user\Desktop\0716_北市賽_紙牌遊戲\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\user\Desktop\0716_北市賽_紙牌遊戲\CardGame\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0716_北市賽_紙牌遊戲\CardGame\CardGame\obj\Debug\CardGame.Form1.resources
+C:\Users\user\Desktop\0716_北市賽_紙牌遊戲\CardGame\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\user\Desktop\0716_北市賽_紙牌遊戲\CardGame\CardGame\obj\Debug\CardGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0716_北市賽_紙牌遊戲\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0716_北市賽_紙牌遊戲\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\user\Desktop\0716_北市賽_紙牌遊戲\CardGame\CardGame\obj\Debug\CardGame.pdb
+G:\我的雲端硬碟\工科賽\工科練習\0716-北市賽-106-2-紙牌遊戲\CardGame\CardGame\bin\Debug\CardGame.exe.config
+G:\我的雲端硬碟\工科賽\工科練習\0716-北市賽-106-2-紙牌遊戲\CardGame\CardGame\obj\Debug\CardGame.exe
+G:\我的雲端硬碟\工科賽\工科練習\0716-北市賽-106-2-紙牌遊戲\CardGame\CardGame\obj\Debug\CardGame.pdb

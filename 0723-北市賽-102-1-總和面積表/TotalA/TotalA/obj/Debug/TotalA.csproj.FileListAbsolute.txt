@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0723-北市賽-總和面積表\TotalA\TotalA\bin\Debug\TotalA.exe.config
+C:\Users\user\Desktop\0723-北市賽-總和面積表\TotalA\TotalA\bin\Debug\TotalA.exe
+C:\Users\user\Desktop\0723-北市賽-總和面積表\TotalA\TotalA\bin\Debug\TotalA.pdb
+C:\Users\user\Desktop\0723-北市賽-總和面積表\TotalA\TotalA\obj\Debug\TotalA.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0723-北市賽-總和面積表\TotalA\TotalA\obj\Debug\TotalA.Form1.resources
+C:\Users\user\Desktop\0723-北市賽-總和面積表\TotalA\TotalA\obj\Debug\TotalA.Properties.Resources.resources
+C:\Users\user\Desktop\0723-北市賽-總和面積表\TotalA\TotalA\obj\Debug\TotalA.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0723-北市賽-總和面積表\TotalA\TotalA\obj\Debug\TotalA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0723-北市賽-總和面積表\TotalA\TotalA\obj\Debug\TotalA.exe
+C:\Users\user\Desktop\0723-北市賽-總和面積表\TotalA\TotalA\obj\Debug\TotalA.pdb

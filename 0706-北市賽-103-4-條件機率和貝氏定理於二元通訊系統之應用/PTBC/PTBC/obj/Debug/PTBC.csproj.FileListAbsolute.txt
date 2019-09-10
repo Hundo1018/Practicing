@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0706-北市賽-條件機率和貝氏定理於二元通訊系統之應用\PTBC\PTBC\bin\Debug\PTBC.exe.config
+C:\Users\user\Desktop\0706-北市賽-條件機率和貝氏定理於二元通訊系統之應用\PTBC\PTBC\bin\Debug\PTBC.exe
+C:\Users\user\Desktop\0706-北市賽-條件機率和貝氏定理於二元通訊系統之應用\PTBC\PTBC\bin\Debug\PTBC.pdb
+C:\Users\user\Desktop\0706-北市賽-條件機率和貝氏定理於二元通訊系統之應用\PTBC\PTBC\obj\Debug\PTBC.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0706-北市賽-條件機率和貝氏定理於二元通訊系統之應用\PTBC\PTBC\obj\Debug\PTBC.Form1.resources
+C:\Users\user\Desktop\0706-北市賽-條件機率和貝氏定理於二元通訊系統之應用\PTBC\PTBC\obj\Debug\PTBC.Properties.Resources.resources
+C:\Users\user\Desktop\0706-北市賽-條件機率和貝氏定理於二元通訊系統之應用\PTBC\PTBC\obj\Debug\PTBC.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0706-北市賽-條件機率和貝氏定理於二元通訊系統之應用\PTBC\PTBC\obj\Debug\PTBC.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0706-北市賽-條件機率和貝氏定理於二元通訊系統之應用\PTBC\PTBC\obj\Debug\PTBC.exe
+C:\Users\user\Desktop\0706-北市賽-條件機率和貝氏定理於二元通訊系統之應用\PTBC\PTBC\obj\Debug\PTBC.pdb

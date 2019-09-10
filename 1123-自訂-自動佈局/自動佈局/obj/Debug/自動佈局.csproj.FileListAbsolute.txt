@@ -1,0 +1,9 @@
+C:\Users\nihscs\Desktop\1123\自動佈局\自動佈局\bin\Debug\自動佈局.exe.config
+C:\Users\nihscs\Desktop\1123\自動佈局\自動佈局\bin\Debug\自動佈局.exe
+C:\Users\nihscs\Desktop\1123\自動佈局\自動佈局\bin\Debug\自動佈局.pdb
+C:\Users\nihscs\Desktop\1123\自動佈局\自動佈局\obj\Debug\自動佈局.csprojResolveAssemblyReference.cache
+C:\Users\nihscs\Desktop\1123\自動佈局\自動佈局\obj\Debug\自動佈局.Form1.resources
+C:\Users\nihscs\Desktop\1123\自動佈局\自動佈局\obj\Debug\自動佈局.Properties.Resources.resources
+C:\Users\nihscs\Desktop\1123\自動佈局\自動佈局\obj\Debug\自動佈局.csproj.GenerateResource.Cache
+C:\Users\nihscs\Desktop\1123\自動佈局\自動佈局\obj\Debug\自動佈局.exe
+C:\Users\nihscs\Desktop\1123\自動佈局\自動佈局\obj\Debug\自動佈局.pdb

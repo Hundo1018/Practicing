@@ -1,0 +1,10 @@
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-98-最小平方誤差法\Line\Line\bin\Debug\Line.exe.config
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-98-最小平方誤差法\Line\Line\bin\Debug\Line.exe
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-98-最小平方誤差法\Line\Line\bin\Debug\Line.pdb
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-98-最小平方誤差法\Line\Line\obj\Debug\Line.csprojAssemblyReference.cache
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-98-最小平方誤差法\Line\Line\obj\Debug\Line.Form1.resources
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-98-最小平方誤差法\Line\Line\obj\Debug\Line.Properties.Resources.resources
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-98-最小平方誤差法\Line\Line\obj\Debug\Line.csproj.GenerateResource.cache
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-98-最小平方誤差法\Line\Line\obj\Debug\Line.csproj.CoreCompileInputs.cache
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-98-最小平方誤差法\Line\Line\obj\Debug\Line.exe
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-98-最小平方誤差法\Line\Line\obj\Debug\Line.pdb

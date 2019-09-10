@@ -1,0 +1,10 @@
+D:\DianJue\9月練習\0918-北市賽-100-4-辨識圖中的阿拉伯數字\KnowTheNumber\KnowTheNumber\bin\Debug\KnowTheNumber.exe.config
+D:\DianJue\9月練習\0918-北市賽-100-4-辨識圖中的阿拉伯數字\KnowTheNumber\KnowTheNumber\bin\Debug\KnowTheNumber.exe
+D:\DianJue\9月練習\0918-北市賽-100-4-辨識圖中的阿拉伯數字\KnowTheNumber\KnowTheNumber\bin\Debug\KnowTheNumber.pdb
+D:\DianJue\9月練習\0918-北市賽-100-4-辨識圖中的阿拉伯數字\KnowTheNumber\KnowTheNumber\obj\Debug\KnowTheNumber.csprojAssemblyReference.cache
+D:\DianJue\9月練習\0918-北市賽-100-4-辨識圖中的阿拉伯數字\KnowTheNumber\KnowTheNumber\obj\Debug\KnowTheNumber.Properties.Resources.resources
+D:\DianJue\9月練習\0918-北市賽-100-4-辨識圖中的阿拉伯數字\KnowTheNumber\KnowTheNumber\obj\Debug\KnowTheNumber.csproj.GenerateResource.cache
+D:\DianJue\9月練習\0918-北市賽-100-4-辨識圖中的阿拉伯數字\KnowTheNumber\KnowTheNumber\obj\Debug\KnowTheNumber.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\0918-北市賽-100-4-辨識圖中的阿拉伯數字\KnowTheNumber\KnowTheNumber\obj\Debug\KnowTheNumber.exe
+D:\DianJue\9月練習\0918-北市賽-100-4-辨識圖中的阿拉伯數字\KnowTheNumber\KnowTheNumber\obj\Debug\KnowTheNumber.pdb
+D:\DianJue\9月練習\0918-北市賽-100-4-辨識圖中的阿拉伯數字\KnowTheNumber\KnowTheNumber\obj\Debug\KnowTheNumber.Form1.resources

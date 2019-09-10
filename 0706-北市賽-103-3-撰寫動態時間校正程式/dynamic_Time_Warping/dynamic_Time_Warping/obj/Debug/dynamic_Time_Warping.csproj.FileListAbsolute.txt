@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0706-北市賽-動態時間校正\dynamic_Time_Warping\dynamic_Time_Warping\bin\Debug\dynamic_Time_Warping.exe.config
+C:\Users\user\Desktop\0706-北市賽-動態時間校正\dynamic_Time_Warping\dynamic_Time_Warping\bin\Debug\dynamic_Time_Warping.exe
+C:\Users\user\Desktop\0706-北市賽-動態時間校正\dynamic_Time_Warping\dynamic_Time_Warping\bin\Debug\dynamic_Time_Warping.pdb
+C:\Users\user\Desktop\0706-北市賽-動態時間校正\dynamic_Time_Warping\dynamic_Time_Warping\obj\Debug\dynamic_Time_Warping.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0706-北市賽-動態時間校正\dynamic_Time_Warping\dynamic_Time_Warping\obj\Debug\dynamic_Time_Warping.Form1.resources
+C:\Users\user\Desktop\0706-北市賽-動態時間校正\dynamic_Time_Warping\dynamic_Time_Warping\obj\Debug\dynamic_Time_Warping.Properties.Resources.resources
+C:\Users\user\Desktop\0706-北市賽-動態時間校正\dynamic_Time_Warping\dynamic_Time_Warping\obj\Debug\dynamic_Time_Warping.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0706-北市賽-動態時間校正\dynamic_Time_Warping\dynamic_Time_Warping\obj\Debug\dynamic_Time_Warping.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0706-北市賽-動態時間校正\dynamic_Time_Warping\dynamic_Time_Warping\obj\Debug\dynamic_Time_Warping.exe
+C:\Users\user\Desktop\0706-北市賽-動態時間校正\dynamic_Time_Warping\dynamic_Time_Warping\obj\Debug\dynamic_Time_Warping.pdb

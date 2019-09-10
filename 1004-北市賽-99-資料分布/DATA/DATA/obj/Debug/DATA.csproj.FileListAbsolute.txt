@@ -1,0 +1,10 @@
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-99-資料分布\DATA\DATA\bin\Debug\DATA.exe.config
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-99-資料分布\DATA\DATA\bin\Debug\DATA.exe
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-99-資料分布\DATA\DATA\bin\Debug\DATA.pdb
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-99-資料分布\DATA\DATA\obj\Debug\DATA.csprojAssemblyReference.cache
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-99-資料分布\DATA\DATA\obj\Debug\DATA.Form1.resources
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-99-資料分布\DATA\DATA\obj\Debug\DATA.Properties.Resources.resources
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-99-資料分布\DATA\DATA\obj\Debug\DATA.csproj.GenerateResource.cache
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-99-資料分布\DATA\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-99-資料分布\DATA\DATA\obj\Debug\DATA.exe
+D:\DianJue\10月練習-北市賽二周目\1004-北市賽-99-資料分布\DATA\DATA\obj\Debug\DATA.pdb

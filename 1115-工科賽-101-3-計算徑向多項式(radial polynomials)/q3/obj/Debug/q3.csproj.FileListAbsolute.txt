@@ -1,0 +1,6 @@
+C:\Users\nihscs\Desktop\1115\q3\q3\bin\Debug\q3.exe.config
+C:\Users\nihscs\Desktop\1115\q3\q3\bin\Debug\q3.exe
+C:\Users\nihscs\Desktop\1115\q3\q3\bin\Debug\q3.pdb
+C:\Users\nihscs\Desktop\1115\q3\q3\obj\Debug\q3.csprojResolveAssemblyReference.cache
+C:\Users\nihscs\Desktop\1115\q3\q3\obj\Debug\q3.exe
+C:\Users\nihscs\Desktop\1115\q3\q3\obj\Debug\q3.pdb

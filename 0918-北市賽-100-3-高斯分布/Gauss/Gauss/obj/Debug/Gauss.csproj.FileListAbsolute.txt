@@ -1,0 +1,10 @@
+D:\DianJue\9月練習\0918-北市賽-100-3-高斯分布\Gauss\Gauss\bin\Debug\Gauss.exe.config
+D:\DianJue\9月練習\0918-北市賽-100-3-高斯分布\Gauss\Gauss\bin\Debug\Gauss.exe
+D:\DianJue\9月練習\0918-北市賽-100-3-高斯分布\Gauss\Gauss\bin\Debug\Gauss.pdb
+D:\DianJue\9月練習\0918-北市賽-100-3-高斯分布\Gauss\Gauss\obj\Debug\Gauss.csprojAssemblyReference.cache
+D:\DianJue\9月練習\0918-北市賽-100-3-高斯分布\Gauss\Gauss\obj\Debug\Gauss.Form1.resources
+D:\DianJue\9月練習\0918-北市賽-100-3-高斯分布\Gauss\Gauss\obj\Debug\Gauss.Properties.Resources.resources
+D:\DianJue\9月練習\0918-北市賽-100-3-高斯分布\Gauss\Gauss\obj\Debug\Gauss.csproj.GenerateResource.cache
+D:\DianJue\9月練習\0918-北市賽-100-3-高斯分布\Gauss\Gauss\obj\Debug\Gauss.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\0918-北市賽-100-3-高斯分布\Gauss\Gauss\obj\Debug\Gauss.exe
+D:\DianJue\9月練習\0918-北市賽-100-3-高斯分布\Gauss\Gauss\obj\Debug\Gauss.pdb

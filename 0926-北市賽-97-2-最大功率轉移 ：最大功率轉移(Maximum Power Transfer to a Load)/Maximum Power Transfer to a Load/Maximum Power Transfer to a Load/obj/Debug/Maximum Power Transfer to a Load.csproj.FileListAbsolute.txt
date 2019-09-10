@@ -1,0 +1,10 @@
+D:\DianJue\9月練習\0926-北市賽-97-2-最大功率轉移 ：最大功率轉移(Maximum Power Transfer to a Load)\Maximum Power Transfer to a Load\Maximum Power Transfer to a Load\bin\Debug\Maximum Power Transfer to a Load.exe.config
+D:\DianJue\9月練習\0926-北市賽-97-2-最大功率轉移 ：最大功率轉移(Maximum Power Transfer to a Load)\Maximum Power Transfer to a Load\Maximum Power Transfer to a Load\bin\Debug\Maximum Power Transfer to a Load.exe
+D:\DianJue\9月練習\0926-北市賽-97-2-最大功率轉移 ：最大功率轉移(Maximum Power Transfer to a Load)\Maximum Power Transfer to a Load\Maximum Power Transfer to a Load\bin\Debug\Maximum Power Transfer to a Load.pdb
+D:\DianJue\9月練習\0926-北市賽-97-2-最大功率轉移 ：最大功率轉移(Maximum Power Transfer to a Load)\Maximum Power Transfer to a Load\Maximum Power Transfer to a Load\obj\Debug\Maximum Power Transfer to a Load.csprojAssemblyReference.cache
+D:\DianJue\9月練習\0926-北市賽-97-2-最大功率轉移 ：最大功率轉移(Maximum Power Transfer to a Load)\Maximum Power Transfer to a Load\Maximum Power Transfer to a Load\obj\Debug\Maximum_Power_Transfer_to_a_Load.Form1.resources
+D:\DianJue\9月練習\0926-北市賽-97-2-最大功率轉移 ：最大功率轉移(Maximum Power Transfer to a Load)\Maximum Power Transfer to a Load\Maximum Power Transfer to a Load\obj\Debug\Maximum_Power_Transfer_to_a_Load.Properties.Resources.resources
+D:\DianJue\9月練習\0926-北市賽-97-2-最大功率轉移 ：最大功率轉移(Maximum Power Transfer to a Load)\Maximum Power Transfer to a Load\Maximum Power Transfer to a Load\obj\Debug\Maximum Power Transfer to a Load.csproj.GenerateResource.cache
+D:\DianJue\9月練習\0926-北市賽-97-2-最大功率轉移 ：最大功率轉移(Maximum Power Transfer to a Load)\Maximum Power Transfer to a Load\Maximum Power Transfer to a Load\obj\Debug\Maximum Power Transfer to a Load.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\0926-北市賽-97-2-最大功率轉移 ：最大功率轉移(Maximum Power Transfer to a Load)\Maximum Power Transfer to a Load\Maximum Power Transfer to a Load\obj\Debug\Maximum Power Transfer to a Load.exe
+D:\DianJue\9月練習\0926-北市賽-97-2-最大功率轉移 ：最大功率轉移(Maximum Power Transfer to a Load)\Maximum Power Transfer to a Load\Maximum Power Transfer to a Load\obj\Debug\Maximum Power Transfer to a Load.pdb

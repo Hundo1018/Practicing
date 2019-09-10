@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0712-北市賽-蔬果熱量網頁程式產生器\FruitsCalHTML\FruitsCalHTML\bin\Debug\FruitsCalHTML.exe.config
+C:\Users\user\Desktop\0712-北市賽-蔬果熱量網頁程式產生器\FruitsCalHTML\FruitsCalHTML\bin\Debug\FruitsCalHTML.exe
+C:\Users\user\Desktop\0712-北市賽-蔬果熱量網頁程式產生器\FruitsCalHTML\FruitsCalHTML\bin\Debug\FruitsCalHTML.pdb
+C:\Users\user\Desktop\0712-北市賽-蔬果熱量網頁程式產生器\FruitsCalHTML\FruitsCalHTML\obj\Debug\FruitsCalHTML.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0712-北市賽-蔬果熱量網頁程式產生器\FruitsCalHTML\FruitsCalHTML\obj\Debug\FruitsCalHTML.Form1.resources
+C:\Users\user\Desktop\0712-北市賽-蔬果熱量網頁程式產生器\FruitsCalHTML\FruitsCalHTML\obj\Debug\FruitsCalHTML.Properties.Resources.resources
+C:\Users\user\Desktop\0712-北市賽-蔬果熱量網頁程式產生器\FruitsCalHTML\FruitsCalHTML\obj\Debug\FruitsCalHTML.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0712-北市賽-蔬果熱量網頁程式產生器\FruitsCalHTML\FruitsCalHTML\obj\Debug\FruitsCalHTML.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0712-北市賽-蔬果熱量網頁程式產生器\FruitsCalHTML\FruitsCalHTML\obj\Debug\FruitsCalHTML.exe
+C:\Users\user\Desktop\0712-北市賽-蔬果熱量網頁程式產生器\FruitsCalHTML\FruitsCalHTML\obj\Debug\FruitsCalHTML.pdb

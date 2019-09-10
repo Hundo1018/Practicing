@@ -1,0 +1,10 @@
+D:\DianJue\9月練習\0925-北市賽-98-3-繪二元樹\DrawBinaryTree\DrawBinaryTree\bin\Debug\DrawBinaryTree.exe.config
+D:\DianJue\9月練習\0925-北市賽-98-3-繪二元樹\DrawBinaryTree\DrawBinaryTree\bin\Debug\DrawBinaryTree.exe
+D:\DianJue\9月練習\0925-北市賽-98-3-繪二元樹\DrawBinaryTree\DrawBinaryTree\bin\Debug\DrawBinaryTree.pdb
+D:\DianJue\9月練習\0925-北市賽-98-3-繪二元樹\DrawBinaryTree\DrawBinaryTree\obj\Debug\DrawBinaryTree.csprojAssemblyReference.cache
+D:\DianJue\9月練習\0925-北市賽-98-3-繪二元樹\DrawBinaryTree\DrawBinaryTree\obj\Debug\DrawBinaryTree.Properties.Resources.resources
+D:\DianJue\9月練習\0925-北市賽-98-3-繪二元樹\DrawBinaryTree\DrawBinaryTree\obj\Debug\DrawBinaryTree.csproj.GenerateResource.cache
+D:\DianJue\9月練習\0925-北市賽-98-3-繪二元樹\DrawBinaryTree\DrawBinaryTree\obj\Debug\DrawBinaryTree.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\0925-北市賽-98-3-繪二元樹\DrawBinaryTree\DrawBinaryTree\obj\Debug\DrawBinaryTree.exe
+D:\DianJue\9月練習\0925-北市賽-98-3-繪二元樹\DrawBinaryTree\DrawBinaryTree\obj\Debug\DrawBinaryTree.pdb
+D:\DianJue\9月練習\0925-北市賽-98-3-繪二元樹\DrawBinaryTree\DrawBinaryTree\obj\Debug\DrawBinaryTree.Node.resources

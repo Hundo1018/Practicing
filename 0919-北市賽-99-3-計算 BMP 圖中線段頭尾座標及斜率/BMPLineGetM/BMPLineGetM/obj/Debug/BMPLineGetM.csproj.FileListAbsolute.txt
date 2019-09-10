@@ -1,0 +1,10 @@
+D:\DianJue\9月練習\0919-北市賽-99-3-計算 BMP 圖中線段頭尾座標及斜率\BMPLineGetM\BMPLineGetM\bin\Debug\BMPLineGetM.exe.config
+D:\DianJue\9月練習\0919-北市賽-99-3-計算 BMP 圖中線段頭尾座標及斜率\BMPLineGetM\BMPLineGetM\bin\Debug\BMPLineGetM.exe
+D:\DianJue\9月練習\0919-北市賽-99-3-計算 BMP 圖中線段頭尾座標及斜率\BMPLineGetM\BMPLineGetM\bin\Debug\BMPLineGetM.pdb
+D:\DianJue\9月練習\0919-北市賽-99-3-計算 BMP 圖中線段頭尾座標及斜率\BMPLineGetM\BMPLineGetM\obj\Debug\BMPLineGetM.csprojAssemblyReference.cache
+D:\DianJue\9月練習\0919-北市賽-99-3-計算 BMP 圖中線段頭尾座標及斜率\BMPLineGetM\BMPLineGetM\obj\Debug\BMPLineGetM.Form1.resources
+D:\DianJue\9月練習\0919-北市賽-99-3-計算 BMP 圖中線段頭尾座標及斜率\BMPLineGetM\BMPLineGetM\obj\Debug\BMPLineGetM.Properties.Resources.resources
+D:\DianJue\9月練習\0919-北市賽-99-3-計算 BMP 圖中線段頭尾座標及斜率\BMPLineGetM\BMPLineGetM\obj\Debug\BMPLineGetM.csproj.GenerateResource.cache
+D:\DianJue\9月練習\0919-北市賽-99-3-計算 BMP 圖中線段頭尾座標及斜率\BMPLineGetM\BMPLineGetM\obj\Debug\BMPLineGetM.csproj.CoreCompileInputs.cache
+D:\DianJue\9月練習\0919-北市賽-99-3-計算 BMP 圖中線段頭尾座標及斜率\BMPLineGetM\BMPLineGetM\obj\Debug\BMPLineGetM.exe
+D:\DianJue\9月練習\0919-北市賽-99-3-計算 BMP 圖中線段頭尾座標及斜率\BMPLineGetM\BMPLineGetM\obj\Debug\BMPLineGetM.pdb

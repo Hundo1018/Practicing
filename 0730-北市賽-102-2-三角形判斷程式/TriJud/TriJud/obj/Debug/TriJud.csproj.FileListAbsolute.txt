@@ -1,0 +1,10 @@
+C:\Users\DOG\Desktop\0730-北市賽-三角形判斷程式\TriJud\TriJud\bin\Debug\TriJud.exe.config
+C:\Users\DOG\Desktop\0730-北市賽-三角形判斷程式\TriJud\TriJud\bin\Debug\TriJud.exe
+C:\Users\DOG\Desktop\0730-北市賽-三角形判斷程式\TriJud\TriJud\bin\Debug\TriJud.pdb
+C:\Users\DOG\Desktop\0730-北市賽-三角形判斷程式\TriJud\TriJud\obj\Debug\TriJud.csprojResolveAssemblyReference.cache
+C:\Users\DOG\Desktop\0730-北市賽-三角形判斷程式\TriJud\TriJud\obj\Debug\TriJud.Form1.resources
+C:\Users\DOG\Desktop\0730-北市賽-三角形判斷程式\TriJud\TriJud\obj\Debug\TriJud.Properties.Resources.resources
+C:\Users\DOG\Desktop\0730-北市賽-三角形判斷程式\TriJud\TriJud\obj\Debug\TriJud.csproj.GenerateResource.cache
+C:\Users\DOG\Desktop\0730-北市賽-三角形判斷程式\TriJud\TriJud\obj\Debug\TriJud.csproj.CoreCompileInputs.cache
+C:\Users\DOG\Desktop\0730-北市賽-三角形判斷程式\TriJud\TriJud\obj\Debug\TriJud.exe
+C:\Users\DOG\Desktop\0730-北市賽-三角形判斷程式\TriJud\TriJud\obj\Debug\TriJud.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0807-工科賽-小明的機器人\Learning\Learning\bin\Debug\Learning.exe.config
+C:\Users\user\Desktop\0807-工科賽-小明的機器人\Learning\Learning\bin\Debug\Learning.exe
+C:\Users\user\Desktop\0807-工科賽-小明的機器人\Learning\Learning\bin\Debug\Learning.pdb
+C:\Users\user\Desktop\0807-工科賽-小明的機器人\Learning\Learning\obj\Debug\Learning.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0807-工科賽-小明的機器人\Learning\Learning\obj\Debug\Learning.Form1.resources
+C:\Users\user\Desktop\0807-工科賽-小明的機器人\Learning\Learning\obj\Debug\Learning.Properties.Resources.resources
+C:\Users\user\Desktop\0807-工科賽-小明的機器人\Learning\Learning\obj\Debug\Learning.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0807-工科賽-小明的機器人\Learning\Learning\obj\Debug\Learning.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0807-工科賽-小明的機器人\Learning\Learning\obj\Debug\Learning.exe
+C:\Users\user\Desktop\0807-工科賽-小明的機器人\Learning\Learning\obj\Debug\Learning.pdb

@@ -1,0 +1,9 @@
+C:\Users\nihscs\Desktop\1119\北市賽107\Q3\Q3\bin\Debug\Q3.exe.config
+C:\Users\nihscs\Desktop\1119\北市賽107\Q3\Q3\bin\Debug\Q3.exe
+C:\Users\nihscs\Desktop\1119\北市賽107\Q3\Q3\bin\Debug\Q3.pdb
+C:\Users\nihscs\Desktop\1119\北市賽107\Q3\Q3\obj\Debug\Q3.csprojResolveAssemblyReference.cache
+C:\Users\nihscs\Desktop\1119\北市賽107\Q3\Q3\obj\Debug\Q3.Form1.resources
+C:\Users\nihscs\Desktop\1119\北市賽107\Q3\Q3\obj\Debug\Q3.Properties.Resources.resources
+C:\Users\nihscs\Desktop\1119\北市賽107\Q3\Q3\obj\Debug\Q3.csproj.GenerateResource.Cache
+C:\Users\nihscs\Desktop\1119\北市賽107\Q3\Q3\obj\Debug\Q3.exe
+C:\Users\nihscs\Desktop\1119\北市賽107\Q3\Q3\obj\Debug\Q3.pdb

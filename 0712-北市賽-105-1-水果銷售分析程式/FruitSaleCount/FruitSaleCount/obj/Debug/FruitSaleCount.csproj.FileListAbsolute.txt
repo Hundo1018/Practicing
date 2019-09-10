@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\0712-北市賽-水果銷售分析程式\FruitSaleCount\FruitSaleCount\bin\Debug\FruitSaleCount.exe.config
+C:\Users\user\Desktop\0712-北市賽-水果銷售分析程式\FruitSaleCount\FruitSaleCount\bin\Debug\FruitSaleCount.exe
+C:\Users\user\Desktop\0712-北市賽-水果銷售分析程式\FruitSaleCount\FruitSaleCount\bin\Debug\FruitSaleCount.pdb
+C:\Users\user\Desktop\0712-北市賽-水果銷售分析程式\FruitSaleCount\FruitSaleCount\obj\Debug\FruitSaleCount.csprojAssemblyReference.cache
+C:\Users\user\Desktop\0712-北市賽-水果銷售分析程式\FruitSaleCount\FruitSaleCount\obj\Debug\FruitSaleCount.Form1.resources
+C:\Users\user\Desktop\0712-北市賽-水果銷售分析程式\FruitSaleCount\FruitSaleCount\obj\Debug\FruitSaleCount.Properties.Resources.resources
+C:\Users\user\Desktop\0712-北市賽-水果銷售分析程式\FruitSaleCount\FruitSaleCount\obj\Debug\FruitSaleCount.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0712-北市賽-水果銷售分析程式\FruitSaleCount\FruitSaleCount\obj\Debug\FruitSaleCount.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0712-北市賽-水果銷售分析程式\FruitSaleCount\FruitSaleCount\obj\Debug\FruitSaleCount.exe
+C:\Users\user\Desktop\0712-北市賽-水果銷售分析程式\FruitSaleCount\FruitSaleCount\obj\Debug\FruitSaleCount.pdb
